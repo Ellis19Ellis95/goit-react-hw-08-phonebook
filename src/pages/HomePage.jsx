@@ -1,7 +1,7 @@
 import { Title } from 'components/SharedLayout/SharedLayout.styled';
 
 const HomePage = () => {
-    return <Title>PhoneBook welcome page!</Title>;
+    return <Title>PhoneBook</Title>;
 };
 
 export default HomePage;
